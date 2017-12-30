@@ -1,0 +1,12 @@
+press '+' to zoom in.
+press '-' to zoom out
+
+press 'd' for day mode
+press 'n' for night mode
+press 'f' to make clouds disappear.
+press 's' to make clouds appear.
+
+press 'arrow up' to go up
+press 'arrow down' to go down
+press 'arrow left' to go left
+press 'arrow right' to go right
