@@ -9,4 +9,4 @@ press 's' to make clouds appear.
 press 'arrow up' to go up
 press 'arrow down' to go down
 press 'arrow left' to go left
-press 'arrow right' to go right
+press 'arrow right' to go right.
